@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Amirmohammad Samadi 👋
 
-<!--
-**samadiamir/samadiamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+- 🎓 Student passionate about technology and programming
+- 🐍 Python Developer
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 📚 Currently exploring the Python ecosystem and expanding my skills
+- 🚀 Building projects and learning every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+
+- Python
+- Git & GitHub
+
+Current Focus
+
+- Artificial Intelligence
+- Machine Learning
+- Python Libraries
+- Software Development
+
+Goals
+
+- Build useful and practical projects
+- Contribute to open-source projects
+- Grow as an AI developer
+
+---
+
+«Learning, building, and improving one project at a time.»
