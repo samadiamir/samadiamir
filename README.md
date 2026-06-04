@@ -4,7 +4,7 @@ About Me
 
 - 🎓 Student passionate about technology and programming
 - 🐍 Python Developer
-- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🤖 Interested in Artificial Intelligence
 - 📚 Currently exploring the Python ecosystem and expanding my skills
 - 🚀 Building projects and learning every day
 
