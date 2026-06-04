@@ -16,9 +16,7 @@ Tech Stack
 Current Focus
 
 - Artificial Intelligence
-- Machine Learning
 - Python Libraries
-- Software Development
 
 Goals
 
